@@ -4,4 +4,4 @@ This is a simple readme file
 
 this is somechanges that are being made to the readme file.
 
-it going act normal
+it going act really bad
